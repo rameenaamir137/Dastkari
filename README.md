@@ -9,7 +9,7 @@ In rural areas, village women possess exceptional artistic skills and create bea
 
 
 
-[Watch Video Introduction]([https://drive.google.com/file/d/1bXhWNjYdvpxTtH6A4Es7oNRgrkM47hmD/view?usp=share_link](https://drive.google.com/file/d/1zv3lXf4igJ_LbdBQm9DxCtdqkj1efe_f/preview))
+[Watch Video Introduction]((https://drive.google.com/file/d/1zv3lXf4igJ_LbdBQm9DxCtdqkj1efe_f/preview))
 
 
 ## Key Features
