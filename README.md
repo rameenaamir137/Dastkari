@@ -7,9 +7,8 @@ The Dastkari website is a platform dedicated to empowering village women by prov
 In rural areas, village women possess exceptional artistic skills and create beautiful handicrafts. However, they often face challenges in accessing markets and finding customers who appreciate their work. Language barriers further limit their reach and prevent them from expanding their customer base. The Dastkari website aims to address these issues by creating a dedicated online platform where village women can display and sell their products. The inclusion of search functionality in both Urdu and English allows users to find items and enables the artisans to connect with potential customers who may not be proficient in English.
 ## Video Introduction
 
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1zv3lXf4igJ_LbdBQm9DxCtdqkj1efe_f/preview" frameborder="0" allowfullscreen></iframe>
 
-
-[Watch Video Introduction]((https://drive.google.com/file/d/1zv3lXf4igJ_LbdBQm9DxCtdqkj1efe_f/preview))
 
 
 ## Key Features
