@@ -8,6 +8,7 @@ In rural areas, village women possess exceptional artistic skills and create bea
 ## Video Introduction
 
 <iframe width="560" height="315" src="[https://drive.google.com/file/d/1bXhWNjYdvpxTtH6A4Es7oNRgrkM47hmD/preview](https://drive.google.com/file/d/1zv3lXf4igJ_LbdBQm9DxCtdqkj1efe_f/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
+
 ## Key Features
 
 - **User Roles and Authentication:** The website supports three user roles - middle admin, sellers, and customers. The middle admin has administrative privileges, while sellers can add and manage their products. Customers need to register and log in to make purchases.
